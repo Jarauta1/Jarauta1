@@ -85,4 +85,4 @@ const aboutMe = {
   
 <br>
 
-<img src="https://cdn.shopify.com/s/files/1/0007/5192/7347/products/009048_cap_530x@2x.jpg?v=1585302933"/>
+<img src="https://github.com/Jarauta1/Jarauta1/blob/main/assets/Zaragoza.jpg?raw=true"/>
