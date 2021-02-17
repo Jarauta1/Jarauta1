@@ -26,13 +26,12 @@ const aboutMe = {
    challenge: "I'm working towards being able to run a marathon.",
 };
 ```
-</br></br>
+</br>
 
 ### Profile Views :<br>
   <img src="https://profile-counter.glitch.me/Jarauta1/count.svg" />
-  
-  
-  
+  </br>
+    
 ### Languages and Tools
 
 <code><img height="36" src="https://github.com/Jarauta1/Jarauta1/blob/main/assets/js.png?raw=true"></code>
@@ -53,11 +52,11 @@ const aboutMe = {
 <code><img height="36" src="https://github.com/Jarauta1/Jarauta1/blob/main/assets/C++.png?raw=true"></code>
 <code><img height="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-
+</br>
 ### 🏆 Github Stats:
 <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=Jarauta1&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true"/>
 <img alt="Jarauta's Top Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jarauta1&hide=smalltalk&theme=buefy&layout=compact&hide_border=true" width="500"/>
-
+</br>
 ### My latest projects
 
 <a href="https://github.com/Jarauta1/DJ-cliente">
@@ -67,15 +66,13 @@ const aboutMe = {
   <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=Jarauta1&repo=DJ-servidor" alt="DJ-servidor" />
 </a>
 
-
+</br>
 <!--### Recently I'm coding in... -->
 
 <!-- <a href="https://codestats.net/users/WEGFan">
   <img src='https://codestats-readme.wegfan.cn/history-graph/Jarauta1?width=850&height=300&timezone=08:00&history_days=21&max_languages=9&language_colors=["3e4053","f15854","5da5da","faa43a","60bd68","f17cb0","b2912f","decf3f","b276b2","808080"]' alt="Jarauta1's Code::Stats history graph" />
 </a>-->
 
-
-<br>
 ### Reach out to me 👓
 
 |  <a href="https://hritik5102.github.io/"><img src="https://icon-library.net//images/icon-programmer/icon-programmer-14.jpg" width="150px" height="150px" /></a> |
