@@ -53,11 +53,11 @@ const aboutMe = {
 <code><img height="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 </br>
-### 🏆 Github Stats:
+###🏆 Github Stats:
 <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=Jarauta1&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true"/>
 <img alt="Jarauta's Top Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jarauta1&hide=smalltalk&theme=buefy&layout=compact&hide_border=true" width="500"/>
 </br>
-### My latest projects
+###My latest projects
 
 <a href="https://github.com/Jarauta1/DJ-cliente">
   <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=Jarauta1&repo=DJ-cliente" alt="DJ-servidor" />
