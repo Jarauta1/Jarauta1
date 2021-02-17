@@ -34,15 +34,18 @@ const aboutMe = {
   
 ### Languages and Tools
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://github.com/Jarauta1/Jarauta1/blob/main/assets/C++.png?raw=true"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="36" src="https://github.com/Jarauta1/Jarauta1/blob/main/assets/js.png?raw=true"></code>
+<code><img height="36" src="https://github.com/Jarauta1/Jarauta1/blob/main/assets/html5.png?raw=true"></code>
+<code><img height="36" src="https://github.com/Jarauta1/Jarauta1/blob/main/assets/css3.png?raw=true"></code>
+<code><img height="36" src="https://github.com/Jarauta1/Jarauta1/blob/main/assets/react-black.png?raw=true"></code>
+<code><img height="36" src="https://github.com/Jarauta1/Jarauta1/blob/main/assets/bootstrap.png?raw=true"></code>
+<code><img height="36" src="https://github.com/Jarauta1/Jarauta1/blob/main/assets/chartjs.png?raw=true"></code>
+<code><img height="36" src="https://github.com/Jarauta1/Jarauta1/blob/main/assets/node.png?raw=true"></code>
+<code><img height="36" src="https://github.com/Jarauta1/Jarauta1/blob/main/assets/express.png?raw=true"></code>
+<code><img height="36" src="https://github.com/Jarauta1/Jarauta1/blob/main/assets/mongodb.png?raw=true"></code>
+<code><img height="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="36" src="https://github.com/Jarauta1/Jarauta1/blob/main/assets/C++.png?raw=true"></code>
+<code><img height="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 
 ### 🏆 Github Stats:
