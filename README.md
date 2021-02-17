@@ -12,6 +12,7 @@ const aboutMe = {
       },
       databases: ["MongoDB"],
    },
+   tools: [Visual Studio Code, Postman, Trello, Discord, Heroku],
    currentLearning: {
       frontEnd: {
          js: ["Angular"],
@@ -44,6 +45,11 @@ const aboutMe = {
 <code><img height="36" src="https://github.com/Jarauta1/Jarauta1/blob/main/assets/express.png?raw=true"></code>
 <code><img height="36" src="https://github.com/Jarauta1/Jarauta1/blob/main/assets/mongodb.png?raw=true"></code>
 <code><img height="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="36" src="https://github.com/Jarauta1/Jarauta1/blob/main/assets/visual-studio-code.png?raw=true"></code>
+<code><img height="36" src="https://github.com/Jarauta1/Jarauta1/blob/main/assets/postman.png?raw=true"></code>
+<code><img height="36" src="https://github.com/Jarauta1/Jarauta1/blob/main/assets/trello.png?raw=true"></code>
+<code><img height="36" src="https://github.com/Jarauta1/Jarauta1/blob/main/assets/discord.png?raw=true"></code>
+<code><img height="36" src="https://github.com/Jarauta1/Jarauta1/blob/main/assets/heroku.svg_.png.png?raw=true"></code>
 <code><img height="36" src="https://github.com/Jarauta1/Jarauta1/blob/main/assets/C++.png?raw=true"></code>
 <code><img height="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
