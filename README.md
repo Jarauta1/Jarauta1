@@ -73,7 +73,7 @@ const aboutMe = {
   <img src='https://codestats-readme.wegfan.cn/history-graph/Jarauta1?width=850&height=300&timezone=08:00&history_days=21&max_languages=9&language_colors=["3e4053","f15854","5da5da","faa43a","60bd68","f17cb0","b2912f","decf3f","b276b2","808080"]' alt="Jarauta1's Code::Stats history graph" />
 </a>-->
 
-
+### Reach out to me 👓
 
 |  <a href="https://hritik5102.github.io/"><img src="https://icon-library.net//images/icon-programmer/icon-programmer-14.jpg" width="150px" height="150px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
