@@ -1,3 +1,5 @@
+<img src="https://github.com/Jarauta1/Jarauta1/blob/main/assets/diego%20jarauta.jpg?raw=true"/>
+
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
