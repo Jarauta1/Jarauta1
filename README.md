@@ -3,7 +3,7 @@
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
-   code: [Javascript, HTML5, CSS3, C++],
+   code: [Javascript, HTML5, CSS3, C++, Python],
    technologies: {
       frontEnd: {
          js: ["React"],
@@ -11,10 +11,11 @@ const aboutMe = {
       },
       backEnd: {
          js: ["Node", "Express"],
+         Python: ["Django","DjRest","UnitTest"],
       },
-      databases: ["MongoDB"],
+      databases: ["MongoDB","PostgreSQL"],
    },
-   tools: [Visual Studio Code, Postman, Trello, Discord, Heroku],
+   tools: [Visual Studio Code, PyCharm, Git, Postman, Trello, Discord, Heroku],
    currentLearning: {
       frontEnd: {
          js: ["Angular"],
