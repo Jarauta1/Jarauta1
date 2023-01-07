@@ -6,19 +6,18 @@ const aboutMe = {
    code: [Javascript, HTML5, CSS3, C++, Python],
    technologies: {
       frontEnd: {
-         js: ["React"],
+         js: ["React","Angular"],
          css: ["Bootstrap"]
       },
       backEnd: {
          js: ["Node", "Express"],
          Python: ["Django","DjRest","UnitTest"],
       },
-      databases: ["MongoDB","PostgreSQL"],
+      databases: ["MongoDB","PostgreSQL","Firebase"],
    },
    tools: [Visual Studio Code, PyCharm, Git, Postman, Trello, Discord, Heroku],
    currentLearning: {
       frontEnd: {
-         js: ["Angular"],
          css: ["Redux"]
       },
       backEnd: {
